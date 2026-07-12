@@ -18,7 +18,7 @@ The major project stages identified are:
 - Interactive dashboard development
 
 ## Dataset Understanding
-The M5 Forecasting dataset was identified as the primary dataset for the project.
+The M5 Forecasting Dataset was identified as the primary dataset for the project.
 
 The dataset contains historical retail sales information including:
 - Product and item-level sales
@@ -43,3 +43,19 @@ The detailed task allocation and development workflow will be finalized during t
 - Set up the development environment
 - Download and inspect the M5 Forecasting dataset
 - Begin Week 1 data architecture and ETL tasks
+
+---
+
+# Dataset
+
+This project uses the **M5 Forecasting Dataset (Walmart historical sales data)**.
+
+**Source:**  
+https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
+
+**Note:**  
+The dataset is **not included** in this repository because some files exceed GitHub's web upload size limit. Please download the dataset from Kaggle and place the following files in the `data/raw/` directory before running the project:
+
+- `calendar.csv`
+- `sales_train_validation.csv`
+- `sell_prices.csv`
