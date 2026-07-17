@@ -1,0 +1,11 @@
+# Dataset
+
+The dataset is not included in this repository because it exceeds GitHub's file size limit.
+
+Download the M5 Forecasting Accuracy dataset from Kaggle and place the extracted files in this folder.
+
+Files required:
+- calendar.csv
+- sales_train_validation.csv
+- sell_prices.csv
+- sample_submission.csv
